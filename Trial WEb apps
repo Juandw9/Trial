@@ -1,0 +1,10 @@
+echo "# Trial" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Juandw9/Trial.git
+git push -u origin main
+
+
+<iframe title="JD_Test" scrolling="no" frameborder="0" src="https://ess.maps.arcgis.com/home/webmap/embedGallery.html?displayapps=true&displayinline=true&group=6ff30e7b053c40fea39f38a139231c9c" style="width:720px; height:687px"></iframe>
